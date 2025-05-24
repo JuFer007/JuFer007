@@ -46,18 +46,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
   <a href="mailto:juferzugo@hotamil.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/outlook/default.svg" width="52" height="40" alt="outlook logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="outlook logo" />
   </a>
 </div>
-
-<h2 align="left">🎧</h2>
-
-<div align="left" style="display:flex; align-items:center; gap:12px;">
-  <a href="https://open.spotify.com/intl-es/track/4UHXMDRuuL07rnFEmSgBEG" target="_blank" rel="noopener noreferrer">
-    <img src="https://akamai.sscdn.co/letras/360x360/albuns/0/8/9/8/3198821747671931.jpg" alt="AURORA album cover" height="100" style="border-radius:8px;" />
-  </a>
-  <iframe src="https://open.spotify.com/embed/track/4UHXMDRuuL07rnFEmSgBEG" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media" style="border-radius:12px;"></iframe>
-</div>
-<p>
-  <strong>Now playing:</strong> <a href="https://open.spotify.com/track/4UHXMDRuuL07rnFEmSgBEG" target="_blank" rel="noopener noreferrer">Aurora - Mora, De La Rose</a>
-</p>
