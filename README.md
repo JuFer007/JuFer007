@@ -45,7 +45,7 @@
     <img src="https://akamai.sscdn.co/letras/360x360/albuns/0/8/9/8/3198821747671931.jpg" alt="AURORA" height="100" style="border-radius:8px;" />
   </a>
   <br>
-  <strong>Now playing:</strong> 
+  <strong>▶: </strong> 
   <a href="https://open.spotify.com/track/4UHXMDRuuL07rnFEmSgBEG" target="_blank" rel="noopener noreferrer">Aurora - Mora, De La Rose</a>
 </p>
 
