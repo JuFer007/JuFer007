@@ -6,12 +6,6 @@
   ⚽ Football fan
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuFer007/JuFer007/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuFer007/JuFer007/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JuFer007/JuFer007/output/pacman-contribution-graph.svg">
-</picture>
-
 <h2 align="left">Coding experience with</h2>
 
 <div align="left">
@@ -49,3 +43,15 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="outlook logo" />
   </a>
 </div>
+
+<h2 align="left">Listening</h2>
+
+<p align="center">
+  <a href="https://open.spotify.com/intl-es/track/4UHXMDRuuL07rnFEmSgBEG" target="_blank" rel="noopener noreferrer">
+    <img src="https://akamai.sscdn.co/letras/360x360/albuns/0/8/9/8/3198821747671931.jpg" alt="AURORA" height="100" style="border-radius:8px;" />
+  </a>
+  <br>
+  <strong>Now playing:</strong> 
+  <a href="https://open.spotify.com/track/4UHXMDRuuL07rnFEmSgBEG" target="_blank" rel="noopener noreferrer">Aurora - Mora, De La Rose</a>
+</p>
+
