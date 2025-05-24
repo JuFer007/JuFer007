@@ -6,14 +6,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuFer007/JuFer007/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuFer007/JuFer007/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JuFer007/JuFer007/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h2 align="left">Coding experience with</h2>
 
 ###
@@ -50,11 +42,23 @@
 
 ###
 
-<p align="left">
-  <a href="https://open.spotify.com/intl-es/track/4UHXMDRuuL07rnFEmSgBEG" target="_blank" rel="noopener noreferrer">
-    <img src="https://akamai.sscdn.co/letras/360x360/albuns/0/8/9/8/3198821747671931.jpg" alt="AURORA" height="100" style="border-radius:8px;" />
+<p align="left" style="display: flex; align-items: center; gap: 12px;">
+  <!-- Portada -->
+  <a href="https://open.spotify.com/track/4UHXMDRuuL07rnFEmSgBEG" target="_blank" rel="noopener noreferrer" style="display: inline-block; border-radius: 8px; overflow: hidden;">
+    <img src="https://akamai.sscdn.co/letras/360x360/albuns/0/8/9/8/3198821747671931.jpg" alt="Aurora - Mora, De La Rose" height="100" />
   </a>
-  <br>
-  <strong>Now playing:</strong> <a href="https://open.spotify.com/track/4UHXMDRuuL07rnFEmSgBEG" target="_blank" rel="noopener noreferrer">Aurora - Mora, De La Rose</a>
+  <!-- Contenedor del reproductor -->
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <!-- Botón de reproducción estilo Spotify -->
+    <a href="https://open.spotify.com/track/4UHXMDRuuL07rnFEmSgBEG" target="_blank" rel="noopener noreferrer" style="background-color: #1DB954; border-radius: 50%; width: 50px; height: 50px; display: flex; justify-content: center; align-items: center; text-decoration: none;">
+      <svg height="24" width="24" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+        <polygon points="6,4 20,12 6,20" />
+      </svg>
+    </a>
+    <!-- Nombre de la canción -->
+    <div style="font-weight: bold; font-size: 14px; text-align: center; max-width: 120px;">
+      Aurora - Mora, De La Rose
+    </div>
+  </div>
 </p>
 
