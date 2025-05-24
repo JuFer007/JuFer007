@@ -50,20 +50,11 @@
 
 ###
 
-<h2 align="left">Currently Listening 🎧</h2>
-
-###
-
 <p align="left">
-  <a href="https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
-    <img src="https://img.shields.io/badge/Spotify-Now_Playing-green?logo=spotify&style=for-the-badge" alt="Spotify Badge" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.scdn.co/image/ab67616d0000b273d5a8e58d67a8f6f5e9a244b9" alt="Album cover" height="100" style="border-radius:8px;" />
+  <a href="https://open.spotify.com/intl-es/track/4UHXMDRuuL07rnFEmSgBEG" target="_blank" rel="noopener noreferrer">
+    <img src="https://akamai.sscdn.co/letras/360x360/albuns/0/8/9/8/3198821747671931.jpg" alt="AURORA" height="100" style="border-radius:8px;" />
   </a>
   <br>
-  <strong>Now playing:</strong> <a href="https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp" target="_blank" rel="noopener noreferrer">Mr. Brightside - The Killers</a>
+  <strong>Now playing:</strong> <a href="https://open.spotify.com/track/4UHXMDRuuL07rnFEmSgBEG" target="_blank" rel="noopener noreferrer">Aurora - Mora, De La Rose</a>
 </p>
+
