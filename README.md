@@ -6,6 +6,9 @@
   ⚽ Football fan
 </p>
 
+<h2 align="left">🧠 Most used programming languages: </h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuFer007&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2 align="left">Coding experience with</h2>
 
 <div align="left">
