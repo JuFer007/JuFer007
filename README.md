@@ -6,16 +6,9 @@
   ⚽ Football fan
 </p>
 
-<h2 align="left">🧠 Most used programming languages & Coding in action</h2>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-
+<h2 align="left">🧠 Most used programming languages</h2>
   <!-- Lenguajes usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuFer007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"/>
-
-  <!-- GIF de programación -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150" alt="coding gif" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuFer007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph" aling="center"/>
 
 <h2 align="left">👾 Coding experience with</h2>
 
