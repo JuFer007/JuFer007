@@ -12,7 +12,7 @@
 
 </div>
 
-<h2 align="left">Coding experience with</h2>
+<h2 align="left">👾 Coding experience with</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -36,7 +36,7 @@
   <img src="https://static-00.iconduck.com/assets.00/mariadb-icon-2048x1360-e1ki92bu.png" height="37" alt="MariaDB logo" />
 </div>
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">⚡Social Media</h2>
 
 <div align="center" style="display:flex; gap:10px;">
   <a href="https://discord.com/users/1226637428517900288" target="_blank" rel="noopener noreferrer">
