@@ -13,8 +13,8 @@
   <!-- Lenguajes usados -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuFer007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"/>
 
-  <!-- GIF -->
-  <img src="https://github.com/madhavagarwal/README-GIFs/raw/main/code-typing.gif" height="150" alt="coding gif" />
+  <!-- GIF de programación -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150" alt="coding gif" />
 </div>
 
 <h2 align="left">👾 Coding experience with</h2>
