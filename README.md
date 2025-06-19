@@ -6,9 +6,12 @@
   ⚽ Football fan
 </p>
 
-<h2 align="left">🧠 Most used programming languages</h2>
-  <!-- Lenguajes usados -->
+<h2 align="left">🧠 Most used programming languages & Coding in action</h2>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuFer007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"/>
+  &nbsp;&nbsp;&nbsp;
+</p>
 
 <h2 align="left">👾 Coding experience with</h2>
 
