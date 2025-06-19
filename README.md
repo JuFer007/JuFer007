@@ -6,10 +6,15 @@
   ⚽ Football fan
 </p>
 
-<h2 align="left">🧠 Most used programming languages: </h2>
-<div align="center">
+<h2 align="left">🧠 Most used programming languages & Coding in action</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+
+  <!-- Lenguajes usados -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuFer007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"/>
 
+  <!-- GIF -->
+  <img src="https://github.com/madhavagarwal/README-GIFs/raw/main/code-typing.gif" height="150" alt="coding gif" />
 </div>
 
 <h2 align="left">👾 Coding experience with</h2>
@@ -50,14 +55,13 @@
   </a>
 </div>
 
-<h2 align="left">Listening</h2>
+<h2 align="left">🎧 Listening</h2>
 
 <p align="center">
   <a href="https://open.spotify.com/intl-es/track/4UHXMDRuuL07rnFEmSgBEG" target="_blank" rel="noopener noreferrer">
     <img src="https://akamai.sscdn.co/letras/360x360/albuns/0/8/9/8/3198821747671931.jpg" alt="AURORA" height="100" style="border-radius:8px;" />
   </a>
   <br>
-  <strong>▶: </strong> 
+  <strong> ▶: </strong> 
   <a href="https://open.spotify.com/track/4UHXMDRuuL07rnFEmSgBEG" target="_blank" rel="noopener noreferrer">Aurora - Mora, De La Rose</a>
 </p>
-
