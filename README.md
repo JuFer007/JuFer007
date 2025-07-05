@@ -16,25 +16,25 @@
 <h2 align="left">👾 Coding experience with</h2>
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" height="40" alt="java logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongoDB logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongoDB logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="sqlserver logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mariadb/003545" height="40" alt="MariaDB logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB logo" />
 </div>
 
 <h2 align="left">⚡Social Media</h2>
