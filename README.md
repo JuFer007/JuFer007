@@ -16,7 +16,25 @@
 <h2 align="left">👾 Coding experience with</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mongodb,postgresql,sqlserver,mysql,mariadb" height="40" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongoDB logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlserver" height="40" alt="sqlserver logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mariadb" height="40" alt="MariaDB logo" />
 </div>
 
 <h2 align="left">⚡Social Media</h2>
