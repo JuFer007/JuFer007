@@ -30,11 +30,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo" style="width: 40px; height: 40px; object-fit: contain;" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" style="width: 40px; height: 40px; object-fit: contain;" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB logo" style="width: 40px; height: 40px; object-fit: contain;" />
 </div>
 
 <h2 align="left">⚡Social Media</h2>
