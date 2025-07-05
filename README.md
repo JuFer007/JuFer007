@@ -51,7 +51,6 @@
   </a>
 </div>
 
-<h2 align="left">📈 Contribution Graph</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JuFer007&theme=merko" alt="wakatime stats" />
+  <img src="https://raw.githubusercontent.com/JuFer007/JuFer007/output/snake.svg" alt="Snake animation" />
 </div>
