@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/intl-es/track/4UHXMDRuuL07rnFEmSgBEG" target="_blank" rel="noopener noreferrer">
-    <img src="https://akamai.sscdn.co/letras/360x360/albuns/0/8/9/8/3198821747671931.jpg" alt="AURORA" height="100" style="border-radius:8px;" />
+    <img src="https://akamai.sscdn.co/letras/360x360/albuns/0/8/9/8/3198821747671931.jpg" alt="AURORA" height="50" style="border-radius:8px;" />
   </a>
   <br>
   <strong> ▶: </strong> 
