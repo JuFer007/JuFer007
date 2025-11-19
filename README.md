@@ -19,6 +19,8 @@
     <img width="16" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" style="width: 50px; height: 50px; object-fit: contain;" />
     <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo" style="width: 50px; height: 50px; object-fit: contain;" />
+    <img width="16" /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" style="width: 50px; height: 50px; object-fit: contain;" />
     <img width="16" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" style="width: 50px; height: 50px; object-fit: contain;" />
