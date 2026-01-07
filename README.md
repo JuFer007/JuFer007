@@ -6,13 +6,13 @@
   ⚽ Football fan
 </p>
 
-<h2 align="left">🧠 Most used programming languages</h2>
+<h2 align="left">🧠 Most Used Programming Languages</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuFer007&locale=en&layout=compact&card_width=320&langs_count=8&theme=merko&hide_border=false&cache_seconds=1800&v=2" height="150" alt="languages graph"/>
 </p>
 
-<h2 align="left">👾 Coding experience with</h2>
+<h2 align="left">👾 Coding Experience With</h2>
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" style="width: 50px; height: 50px; object-fit: contain;" />
@@ -36,6 +36,28 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" style="width: 50px; height: 50px; object-fit: contain;" />
     <img width="16" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" height="50" alt="MariaDB logo" style="width: 50px; height: 50px; object-fit: contain;" />
+</div>
+
+<h2 align="left">🛠️ Frameworks, APIs & Tools</h2>
+
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring boot logo" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="vue logo" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwind logo" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="postman logo" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" />
 </div>
 
 <h2 align="left">⚡Social Media</h2>
