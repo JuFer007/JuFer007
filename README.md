@@ -41,23 +41,41 @@
 <h2 align="left">🛠️ Frameworks, APIs & Tools</h2>
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring boot logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+         alt="spring logo"
+         style="width: 50px; height: 50px; object-fit: contain;" />
     <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+         alt="react logo"
+         style="width: 50px; height: 50px; object-fit: contain;" />
     <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="vue logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+         alt="vue logo"
+         style="width: 50px; height: 50px; object-fit: contain;" />
     <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+         alt="nodejs logo"
+         style="width: 50px; height: 50px; object-fit: contain;" />
     <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+         alt="bootstrap logo"
+         style="width: 50px; height: 50px; object-fit: contain;" />
     <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwind logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+         alt="tailwind logo"
+         style="width: 50px; height: 50px; object-fit: contain;" />
     <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="postman logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
+         alt="postman logo"
+         style="width: 50px; height: 50px; object-fit: contain;" />
     <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+         alt="git logo"
+         style="width: 50px; height: 50px; object-fit: contain;" />
     <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+         alt="docker logo"
+         style="width: 50px; height: 50px; object-fit: contain;" />
 </div>
 
 <h2 align="left">⚡Social Media</h2>
