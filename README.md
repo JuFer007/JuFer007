@@ -49,9 +49,6 @@
          alt="react logo"
          style="width: 50px; height: 50px; object-fit: contain;" />
     <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-         alt="vue logo"
-         style="width: 50px; height: 50px; object-fit: contain;" />
     <img width="16" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
          alt="nodejs logo"
@@ -73,9 +70,6 @@
          alt="git logo"
          style="width: 50px; height: 50px; object-fit: contain;" />
     <img width="16" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-         alt="docker logo"
-         style="width: 50px; height: 50px; object-fit: contain;" />
 </div>
 
 <h2 align="left">⚡Social Media</h2>
