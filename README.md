@@ -49,7 +49,6 @@
          alt="react logo"
          style="width: 50px; height: 50px; object-fit: contain;" />
     <img width="16" />
-    <img width="16" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
          alt="nodejs logo"
          style="width: 50px; height: 50px; object-fit: contain;" />
@@ -69,7 +68,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
          alt="git logo"
          style="width: 50px; height: 50px; object-fit: contain;" />
-    <img width="16" />
 </div>
 
 <h2 align="left">⚡Social Media</h2>
