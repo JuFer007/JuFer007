@@ -68,17 +68,27 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
          alt="git logo"
          style="width: 50px; height: 50px; object-fit: contain;" />
+    <img width="16" />
+    <img src="https://cdn.simpleicons.org/n8n/EA4B71"
+         alt="n8n logo"
+         style="width: 50px; height: 50px; object-fit: contain;" />
+    <img width="16" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+         alt="docker logo"
+         style="width: 50px; height: 50px; object-fit: contain;" />
 </div>
 
 <h2 align="left">⚡Social Media</h2>
 
-<div align="center" style="display:flex; gap:10px;">
+<div align="center">
   <a href="https://discord.com/users/1226637428517900288" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
+  
   <a href="https://twitter.com/jufer_7" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
+  
   <a href="https://instagram.com/jufer_07" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
