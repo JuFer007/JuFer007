@@ -1,46 +1,51 @@
-<!-- HEADER -->
-
+<!-- Header -->
 <div align="center">
-
   <!-- Banner inicial -->
-
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F110B,45:1D1B16,100:0F110B&height=220&section=header&text=Junior%20Zumaeta%20%F0%9F%92%80&fontSize=48&fontColor=ABA285&fontAlignY=38&desc=SYSTEMS%20AND%20COMPUTER%20ENGINEERING&descAlignY=58&descSize=15&descColor=D5D0C1&animation=fadeIn&stroke=39352C&strokeWidth=1" width="100%" />
   <br/><br/>
 
   <!-- Avatar -->
-
   <img src="avatar.png" width="15%" alt="OPERATOR JuFer007" />
   <br/><br/>
 
   <!-- Terminal -->
-
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2800&pause=900&color=7CFC00&center=true&vCenter=true&width=620&lines=%3E+CLASSIFIED+PROJECT%3A+%23007;%3E+MISSION%3A+ENGINEER+THE+FUTURE;%3E+DATABASES%3A+CONNECTED;%3E+INITIALIZING+SYSTEMS...;%3E+ACCESS+GRANTED;%3E+AGENTE:+JUFER_07" alt="Terminal animation" />
   <br/><br/>
 
   <!-- Info -->
-
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-7CFC00?style=for-the-badge&labelColor=0B0F0A&logo=shieldsdotio&logoColor=7CFC00" alt="Status" />
   <img src="https://img.shields.io/badge/RANK-SYSTEMS%20ENGINEER%20IN%20PROGRESS-FF9900?style=for-the-badge&labelColor=0B0F0A&logo=target&logoColor=FF9900" alt="Rank" />
   <img src="https://img.shields.io/badge/CLASS-FULL%20STACK-6B8E23?style=for-the-badge&labelColor=0B0F0A&logo=github&logoColor=FFFFFF" alt="Class" />
   <img src="https://img.shields.io/badge/FOCUS-BACKEND-3498DB?style=for-the-badge&labelColor=0B0F0A&logo=serverfault&logoColor=FFFFFF" alt="Backend Focus" />
   <img src="https://img.shields.io/badge/HOBBY-FOOTBALL-228B22?style=for-the-badge&labelColor=0B0F0A&logo=themoviedatabase&logoColor=FFFFFF" alt="Football" />
   <img src="https://img.shields.io/badge/INTEREST-GAMING-8A2BE2?style=for-the-badge&labelColor=0B0F0A&logo=playstation&logoColor=FFFFFF" alt="Gaming" />
-
 </div>
 
 <br/>
 
-<!-- FEATURED PROJECTS -->
+<!-- Sobre Mí -->
+<h2>
+  <img src="https://api.iconify.design/lucide/user.svg?color=%23ABA285" width="23" height="23" align="absmiddle" alt="" />
+  &nbsp; ABOUT ME
+</h2>
 
+<p>
+  Systems and Computer Engineering student. I work across the full stack with a focus on backend development, and I also enjoy database design, UI/UX prototyping and project management.
+</p>
+
+<p>
+  I build management systems and web applications that solve real problems, and I often collaborate with classmates on team projects. Outside of code, I love football and gaming.
+</p>
+
+<!-- Proyectos Destacados -->
 <h2>
   <img src="https://api.iconify.design/lucide/folder-code.svg?color=%23ABA285" width="22" height="22" align="absmiddle" alt="" />
-  Featured Projects
+  FEATURED PROJECTS
 </h2>
 
 <p>Selected projects focused on solving real-world problems.</p>
 
 <table width="100%">
-
   <!-- ROW 1 -->
   <tr>
     <!-- RAEE SMART -->
@@ -81,9 +86,8 @@
       </a>
     </td>
   </tr>
-
+  
   <!-- ROW 2 -->
-
   <tr>
     <!-- THE FOREST COLLEGE -->
     <td width="10%" align="center" valign="middle">
@@ -124,7 +128,6 @@
   </tr>
 
   <!-- ROW 3 -->
-
   <tr>
     <!-- D'VITA SYSTEM -->
     <td width="10%" align="center" valign="middle">
@@ -167,32 +170,30 @@
       </a>
     </td>
   </tr>
-
 </table>
 
-<!-- STACK TECNOLOGICO -->
+<!-- Stact Tecnologico -->
 <h2>
   <img src="https://api.iconify.design/lucide/package.svg?color=%23ABA285" width="23" height="23" align="absmiddle" alt="" />
   &nbsp; LOADOUT
 </h2>
 
 <div align="center">
-
-  <!-- LANGUAGES -->
+  <!-- Lenguajes -->
   <h3>
     <img src="https://api.iconify.design/lucide/code-2.svg?color=%23ABA285" width="18" height="18" align="absmiddle" alt="" />
     &nbsp; Languages
   </h3>
   <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css&theme=dark" alt="Java, Python, PHP, JavaScript, HTML and CSS" />
 
-  <!-- FRAMEWORKS -->
+  <!-- Frameworks -->
   <h3>
     <img src="https://api.iconify.design/lucide/layers-3.svg?color=%23ABA285" width="18" height="18" align="absmiddle" alt="" />
     &nbsp; Frameworks &amp; Libraries
   </h3>
   <img src="https://skillicons.dev/icons?i=spring,react,nodejs,vue,angular,bootstrap,tailwind&theme=dark" alt="Spring, React, Node.js, Vue, Angular, Bootstrap and Tailwind" />
 
-  <!-- DATABASES -->
+  <!-- Bases de Datos -->
   <h3>
     <img src="https://api.iconify.design/lucide/database.svg?color=%23ABA285" width="18" height="18" align="absmiddle" alt="" />
     &nbsp; Databases
@@ -201,14 +202,13 @@
   <img src="https://cdn.simpleicons.org/mariadb/ABA285" height="48" alt="MariaDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" alt="Microsoft SQL Server" />
 
-  <!-- DEVELOPER TOOLS -->
+  <!-- Herramientas -->
   <h3>
     <img src="https://api.iconify.design/lucide/terminal.svg?color=%23ABA285" width="18" height="18" align="absmiddle" alt="" />
     &nbsp; Developer Tools
   </h3>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" alt="Git, GitHub, Docker and Postman" />
-  <img src="https://cdn.simpleicons.org/n8n/ABA285" height="48" alt="n8n" />
-
+  <img src="https://skillicons.dev/icons?i=git,github,docker,tensorflow,postman,figma&theme=dark"alt="Git, GitHub, Docker, TensorFlow, Postman and Figma" />
+  <img src="https://cdn.simpleicons.org/n8n/e95075" height="48" alt="n8n" />
 </div>
 
 <!-- ESTADISTICAS -->
@@ -218,11 +218,22 @@
 </h2>
 
 <div align="center">
+  <!-- Stats de GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JuFer007&show_icons=true&hide_border=true&bg_color=0F110B&title_color=ABA285&text_color=D5D0C1&icon_color=ABA285&hide=contribs&rank_icon=github" alt="GitHub Stats" width="400" align="absmiddle" />
+  <!-- Lenguajes mas usadaos -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuFer007&layout=compact&hide_border=true&bg_color=0F110B&title_color=ABA285&text_color=D5D0C1" alt="Most Used Languages" width="400" align="absmiddle" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=JuFer007&show_icons=true&hide_border=true&bg_color=0F110B&title_color=ABA285&text_color=D5D0C1&icon_color=ABA285&hide=contribs&rank_icon=github" alt="GitHub Stats" width="400" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuFer007&layout=compact&hide_border=true&bg_color=0F110B&title_color=ABA285&text_color=D5D0C1" alt="Most Used Languages" width="400" />
+</div>
+<br/>
 
+<!-- LOGROS -->
+<h2>
+  <img src="https://api.iconify.design/lucide/trophy.svg?color=%23ABA285" width="23" height="23" align="absmiddle" alt="" />
+  &nbsp; ACHIEVEMENTS
+</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=JuFer007&theme=dark&background=0F110B&ring=ABA285&fire=ABA285&currStreakNum=ABA285&sideNums=ABA285&currStreakLabel=D5D0C1&sideLabels=D5D0C1&dates=D5D0C1&hide_border=true" alt="GitHub Streak" />
 </div>
 <br/>
 
@@ -233,17 +244,29 @@
 </h2>
 
 <div align="center">
+  <!-- Discord -->
   <a href="https://discord.com/users/1226637428517900288">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0b0f0a" alt="Discord" />
   </a>
+  <!-- Twitter -->
   <a href="https://twitter.com/jufer_7">
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0b0f0a" alt="Twitter" />
   </a>
+  <!-- Instagram --> 
   <a href="https://instagram.com/jufer_07">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b0f0a" alt="Instagram" />
   </a>
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/junior-fernando-zumaeta-golac-673b52406/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f0a" alt="LinkedIn" />
+    <img src="recursos/linkedin-badge.svg" alt="LinkedIn" />
+  </a>
+  <!-- Gmail -->
+  <a href="mailto:juniorfernandozumaetagolac@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0f0a" alt="Gmail" />
+  </a>
+  <!-- Outlook -->
+  <a href="mailto:juferzugo@hotmail.com">
+    <img src="recursos/outlook-badge.svg" alt="Outlook" />
   </a>
 </div>
 <br/>
