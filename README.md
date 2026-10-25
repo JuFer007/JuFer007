@@ -37,6 +37,81 @@
   I build management systems and web applications that solve real problems, and I often collaborate with classmates on team projects. Outside of code, I love football and gaming.
 </p>
 
+<!-- PLAYER HUB -->
+<h2>
+  <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23ABA285" width="23" height="23" align="absmiddle" alt="" />
+  &nbsp; PLAYER HUB
+</h2>
+
+<table width="100%">
+  <!-- ROW 1 -->
+  <tr>
+    <!-- AVATAR + MENÚ -->
+    <td width="28%" rowspan="3" align="center" valign="middle">
+      <img src="ghostPerfil.png" width="260" alt="Ghost pixel art" />
+      <br>
+      <img src="https://img.shields.io/badge/-MULTIPLAYER-39352C?style=for-the-badge&labelColor=39352C" alt="Multiplayer" /><br/>
+      <img src="https://img.shields.io/badge/-BATTLE_ROYALE-ABA285?style=for-the-badge&labelColor=ABA285&logoColor=1D1B16" alt="Battle Royale" /><br/>
+      <img src="https://img.shields.io/badge/-STORY_MODE-39352C?style=for-the-badge&labelColor=39352C" alt="Story Mode" />
+    </td>
+    <br>
+    <td width="36%" colspan="3" valign="top">
+      <sub>PRIMARY GAME</sub><br/>
+      <b>EA SPORTS FC 26</b>
+    </td>
+    <td width="36%" colspan="3" valign="top">
+      <sub>SECONDARY GAME</sub><br/>
+      <b>CALL OF DUTY MWII</b>
+    </td>
+  </tr>
+  <!-- ROW 2 -->
+  <tr>
+    <td colspan="3" valign="top">
+      <sub>CLASS</sub><br/>
+      <b>RUSHER &amp; TACTICIAN</b>
+    </td>
+    <td colspan="3" valign="top">
+      <sub>FAVORITE FOOTBALL TEAMS</sub><br/>
+      <b>REAL MADRID · UNIVERSITARIO DE DEPORTES</b>
+    </td>
+  </tr>
+  <!-- ROW 3 -->
+  <tr>
+    <td width="12%" align="center" valign="top">
+      <br>
+      <img src="https://api.iconify.design/lucide/monitor.svg?color=%23ABA285" width="28" alt="" /><br/>
+      <sub>PLATFORM</sub><br/><b>PC / PS</b>
+    </td>
+    <td width="12%" align="center" valign="top">
+      <br>
+      <img src="https://api.iconify.design/lucide/headset.svg?color=%23ABA285" width="28" alt="" /><br/>
+      <sub>VOICE</sub><br/><b>DISCORD</b>
+    </td>
+    <td width="12%" align="center" valign="top">
+      <br>
+      <img src="https://api.iconify.design/lucide/moon.svg?color=%23ABA285" width="28" alt="" /><br/>
+      <sub>PLAYTIME</sub><br/><b>NIGHT</b>
+    </td>
+    <td width="12%" align="center" valign="top">
+      <br>
+      <img src="https://api.iconify.design/lucide/users.svg?color=%23ABA285" width="28" alt="" /><br/>
+      <sub>MODE</sub><br/><b>SQUAD</b>
+    </td>
+    <td width="12%" align="center" valign="top">
+      <br>
+      <img src="https://api.iconify.design/lucide/goal.svg?color=%23ABA285" width="28" alt="" /><br/>
+      <sub>POSITION</sub><br/><b>MCO</b>
+    </td>
+    <td width="12%" align="center" valign="top">
+      <br>
+      <img src="https://api.iconify.design/lucide/skull.svg?color=%23ABA285" width="28" alt="" /><br/>
+      <sub>OPERATOR</sub><br/><b>GHOST</b>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <!-- Proyectos Destacados -->
 <h2>
   <img src="https://api.iconify.design/lucide/folder-code.svg?color=%23ABA285" width="22" height="22" align="absmiddle" alt="" />
@@ -61,6 +136,8 @@
         <img src="https://img.shields.io/badge/React-39352C?style=flat-square&logo=react&logoColor=ABA285" alt="React" />
         <img src="https://img.shields.io/badge/Spring_Boot-39352C?style=flat-square&logo=springboot&logoColor=ABA285" alt="Spring Boot" />
         <img src="https://img.shields.io/badge/Python-39352C?style=flat-square&logo=python&logoColor=ABA285" alt="Python" />
+        <img src="https://img.shields.io/badge/PostgreSQL-39352C?style=flat-square&logo=postgresql&logoColor=ABA285" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/JavaScript-39352C?style=flat-square&logo=javascript&logoColor=ABA285" alt="JavaScript" />
       </p>
       <a href="https://github.com/JuFer007/RAEE_Smart">
         <img src="https://img.shields.io/badge/VIEW_REPOSITORY-ABA285?style=for-the-badge&logo=github&logoColor=1D1B16" alt="View repository" />
@@ -80,6 +157,8 @@
         <img src="https://img.shields.io/badge/Node.js-39352C?style=flat-square&logo=nodedotjs&logoColor=ABA285" alt="Node.js" />
         <img src="https://img.shields.io/badge/Spring_Boot-39352C?style=flat-square&logo=springboot&logoColor=ABA285" alt="Spring Boot" />
         <img src="https://img.shields.io/badge/MySQL-39352C?style=flat-square&logo=mysql&logoColor=ABA285" alt="MySQL" />
+        <img src="https://img.shields.io/badge/JavaScript-39352C?style=flat-square&logo=javascript&logoColor=ABA285" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/React-39352C?style=flat-square&logo=react&logoColor=ABA285" alt="React" />
       </p>
       <a href="https://github.com/JuFer007/CitaMed">
         <img src="https://img.shields.io/badge/VIEW_REPOSITORY-ABA285?style=for-the-badge&logo=github&logoColor=1D1B16" alt="View repository" />
@@ -120,6 +199,7 @@
         <img src="https://img.shields.io/badge/Node.js-39352C?style=flat-square&logo=nodedotjs&logoColor=ABA285" alt="Node.js" />
         <img src="https://img.shields.io/badge/MySQL-39352C?style=flat-square&logo=mysql&logoColor=ABA285" alt="MySQL" />
         <img src="https://img.shields.io/badge/PostgreSQL-39352C?style=flat-square&logo=postgresql&logoColor=ABA285" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Thymeleaf-39352C?style=flat-square&logo=thymeleaf&logoColor=ABA285" alt="Thymeleaf" />
       </p>
       <a href="https://github.com/JuFer007/PetHouseSystem">
         <img src="https://img.shields.io/badge/VIEW_REPOSITORY-ABA285?style=for-the-badge&logo=github&logoColor=1D1B16" alt="View repository" />
@@ -166,6 +246,50 @@
         <img src="https://img.shields.io/badge/Bootstrap-39352C?style=flat-square&logo=bootstrap&logoColor=ABA285" alt="Bootstrap" />
       </p>
       <a href="https://github.com/JuFer007/ComicForge">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-ABA285?style=for-the-badge&logo=github&logoColor=1D1B16" alt="View repository" />
+      </a>
+    </td>
+  </tr>
+
+  <!-- ROW 4 -->
+  <tr>
+    <!-- URBAN BLADES BARBER -->
+    <td width="10%" align="center" valign="middle">
+      <a href="recursos/urbanBlades.png">
+        <img src="recursos/urbanBlades.png" width="90" alt="Urban Blades Barber logo" />
+      </a>
+    </td>
+    <td width="40%" valign="top">
+      <h3>Urban Blades Barber</h3>
+      <p>Comprehensive barbershop management system featuring online reservations, Google OAuth authentication, employee, service and customer administration, role-based panels, PDF ticket generation and financial reports with statistical charts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-39352C?style=flat-square&logo=php&logoColor=ABA285" alt="PHP" />
+        <img src="https://img.shields.io/badge/MySQL-39352C?style=flat-square&logo=mysql&logoColor=ABA285" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Node.js-39352C?style=flat-square&logo=nodedotjs&logoColor=ABA285" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Bootstrap-39352C?style=flat-square&logo=bootstrap&logoColor=ABA285" alt="Bootstrap" />
+        <img src="https://img.shields.io/badge/Puppeteer-39352C?style=flat-square&logo=puppeteer&logoColor=ABA285" alt="Puppeteer" />
+      </p>
+      <a href="https://github.com/JuFer007/UrbanBladesBarber">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-ABA285?style=for-the-badge&logo=github&logoColor=1D1B16" alt="View repository" />
+      </a>
+    </td>
+    <!-- THE QUACKZONE -->
+    <td width="10%" align="center" valign="middle">
+      <a href="https://github.com/JuFer007/TheQuackZone">
+        <img src="recursos/theQuackZone.png" width="90" alt="The QuackZone logo" />
+      </a>
+    </td>
+    <td width="40%" valign="top">
+      <h3>The QuackZone</h3>
+      <p>Online video game store featuring a categorized catalog, shopping cart, wishlist, game reviews, customizable user profiles and email notifications, powered by external APIs such as RAWG, IGDB and CheapShark.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vue.js-39352C?style=flat-square&logo=vuedotjs&logoColor=ABA285" alt="Vue 3" />
+        <img src="https://img.shields.io/badge/Spring_Boot-39352C?style=flat-square&logo=springboot&logoColor=ABA285" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Node.js-39352C?style=flat-square&logo=nodedotjs&logoColor=ABA285" alt="Node.js" />
+        <img src="https://img.shields.io/badge/MySQL-39352C?style=flat-square&logo=mysql&logoColor=ABA285" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Docker-39352C?style=flat-square&logo=docker&logoColor=ABA285" alt="Docker" />
+      </p>
+      <a href="https://github.com/JuFer007/TheQuackZone">
         <img src="https://img.shields.io/badge/VIEW_REPOSITORY-ABA285?style=for-the-badge&logo=github&logoColor=1D1B16" alt="View repository" />
       </a>
     </td>
@@ -222,8 +346,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JuFer007&show_icons=true&hide_border=true&bg_color=0F110B&title_color=ABA285&text_color=D5D0C1&icon_color=ABA285&hide=contribs&rank_icon=github" alt="GitHub Stats" width="400" align="absmiddle" />
   <!-- Lenguajes mas usadaos -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuFer007&layout=compact&hide_border=true&bg_color=0F110B&title_color=ABA285&text_color=D5D0C1" alt="Most Used Languages" width="400" align="absmiddle" />
-
 </div>
+
 <br/>
 
 <!-- LOGROS -->
